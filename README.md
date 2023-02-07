@@ -13,6 +13,7 @@ The [second map] is a chloropeth map. This map allows for the viewers to see the
 - [The New York Times](https://github.com/nytimes/covid-19-data/blob/43d32dde2f87bd4dafbb7d23f5d9e878124018b8/live/us-counties.csv)
 - [2018 ACS 5 year estimates](https://data.census.gov/table?g=0100000US$050000&d=ACS+5-Year+Estimates+Data+Profiles&tid=ACSDP5Y2018.DP05&hidePreview=true)
 - [The US Census Bureau](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html)
+
 [basemap gallery]: https://www.mapbox.com/gallery/
 [ColorBrewer]: https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3
 [mapshaper]: https://mapshaper.org/
