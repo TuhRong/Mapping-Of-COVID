@@ -1,5 +1,5 @@
 # Mapping US COVID in 2020
-For this project, we worked creating a web application that displayed two visual maps. Through the maps, we were able to map the data of the COVID cases and rates in the United States in 2020. The first map that is being displayed is a proportional symbols map that represents the number of COVID cases in the United States. The second map is a chloropleth map of the rates of the COVID cases in the United States. In order to complete the project, the included resources were Mapbox, `mapbox-gl-js.css`, `mapbox-gl-js.js`, [ColorBrewer], [mapeshaper], and [basemap gallery].
+For this project, we worked creating a web application that displayed two visual maps. Through the maps, we were able to map the data of the COVID cases and rates in the United States in 2020. The first map that is being displayed is a proportional symbols map that represents the number of COVID cases in the United States. The second map is a chloropleth map of the rates of the COVID cases in the United States. In order to complete the project, the included resources were Mapbox, `mapbox-gl-js.css`, `mapbox-gl-js.js`, [ColorBrewer], [mapshaper], and [basemap gallery].
 
 ## Map 1: Proportional Symbols of COVID Cases in the US in 2020
 ![map 1: COVID Cases (2020)](img/Map_1_Proportional_Symbols.PNG)
